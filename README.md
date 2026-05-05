@@ -2,7 +2,7 @@
 
 A beautiful, responsive landing page template for SaaS products built with Tailwind CSS and vanilla JavaScript.
 
-![SaaSFlow Preview](assets/screenshots/preview.png)
+![SaaSFlow Preview](preview.png)
 
 ## ✨ Features
 
